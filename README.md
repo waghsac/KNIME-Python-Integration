@@ -7,14 +7,14 @@ In this implementaton, the cosine similarity code is written in python and this 
 <b>KNIME workflow</b>
 ![alt text](https://github.com/waghsac/KNIME-Python-Integration/blob/master/CosineSimilarityWorkflow.PNG)
 
-<H2>The concept of Cosine Similarity</H2>
-https://github.com/waghsac/KNIME-Python-Integration/blob/master/CosineSimilarity.PNG
+<b>The concept of Cosine Similarity</b>
+![alt text](https://github.com/waghsac/KNIME-Python-Integration/blob/master/CosineSimilarity.PNG)
 
-<H2>Python Node</H2>
-https://github.com/waghsac/KNIME-Python-Integration/blob/master/KNIMEPythonNode.PNG
+<b>Python Node</b>
+![alt text](https://github.com/waghsac/KNIME-Python-Integration/blob/master/KNIMEPythonNode.PNG)
 
-<H2>Results</H2>
+<b>Results</b>
 Lesser the value of the angle, more the value of the cosine and hence higher the match of the two documents.
 Document 1 is being matched with three other documents in this example.
 
-https://github.com/waghsac/KNIME-Python-Integration/blob/master/ResultsTable.PNG
+![alt text](https://github.com/waghsac/KNIME-Python-Integration/blob/master/ResultsTable.PNG)
