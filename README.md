@@ -16,4 +16,5 @@ https://github.com/waghsac/KNIME-Python-Integration/blob/master/KNIMEPythonNode.
 <H2>Results</H2>
 Lesser the value of the angle, more the value of the cosine and hence higher the match of the two documents.
 Document 1 is being matched with three other documents in this example.
+
 https://github.com/waghsac/KNIME-Python-Integration/blob/master/ResultsTable.PNG
